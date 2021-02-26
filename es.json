@@ -1,6 +1,7 @@
 {
   "general": {
-    "welcome": "Bienvenid@",
-    "tryNow": "Try now"
+    "createSmartRecipes": "Crea recetas inteligentes",
+    "welcome": "Bienvenid@ a Plant Jammar Studio. Aquí podrás crear y gestionar tus recetas dinámicas",
+    "signUp": "Regístrate ahora y pruébalo"
   }
 }

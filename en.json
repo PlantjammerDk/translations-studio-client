@@ -1,6 +1,7 @@
 {
   "general": {
-    "welcome": "Welcome",
-    "tryNow": "Try now"
+    "createSmartRecipes": "Create smart recipes",
+    "welcome": "Welcome to Plant Jammer Studio. Here you can create dynamic recipes and interact with them on the Plant Jammer website.",
+    "signUp": "Sign in now and try"
   }
 }
