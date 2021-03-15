@@ -12,7 +12,72 @@
     "Browse": "Browse",
     "Uploading image, please wait": "Uploading image, please wait"
   },
-  "ingredientSelector": { "Get matches": "Get matches" },
+  "ingredientSelector": { 
+    "Get matches": "Get matches",
+    "Select more ingredients": "Select more ingredients",
+    "Matches": "Matches",
+    "Popular ingredients": "Popular ingredients"
+  },
+  "recipe": { 
+    "Change ingredients": "Change ingredients", 
+    "Preview recipe": "Preview recipe",
+    "Replace ingredients": "Replace ingredients"
+  },
+  "volumes": {
+    "Updating servings": "Updating servings",
+    "This will reset the suggested volumes below.": "This will reset the suggested volumes below.",
+    "I'm making a": "I'm making a"
+  },
+  "buttons": {
+    "Accept": "Accept",
+    "Cancel": "Cancel",
+    "Select all": "Select all",
+    "Clear selection": "Clear selection",
+    "Use": "Use",
+    "Save": "Save",
+    "My dishes": "My dishes",
+    "Log out": "Log out",
+    "Remove step": "Remove step",
+    "Do you really want to remove step number {{order}} ?": "Do you really want to remove step number {{order}} ?"
+  },
+  "steps": {
+    "This is a conditional step that will only be generated when a user activates any of the substitutes in it.": "This is a conditional step that will only be generated when a user activates any of the substitutes in it.",
+    "This step will only be shown if any of the following substitutes are activated": "This step will only be shown if any of the following substitutes are activated",
+    "Main ingredients": "Main ingredients",
+    "Substitutes": "Substitutes",
+    "Tip": "Tip",
+    "Write": "Write",
+    "to add ingredients to this step": "to add ingredients to this step",
+    "Select ingredients for this step": "Select ingredients for this step",
+    "Don't write ingredients into your steps - instead use the placeholder #ingredients and click the appropriate ingredients icons above.": "Don't write ingredients into your steps - instead use the placeholder #ingredients and click the appropriate ingredients icons above.",
+    "Preview": "Preview",
+    "New Step": "New Step",
+    "Search for text": "Search for text",
+    "Do something with": "Do something with",
+    "Edit step {{selectedStepOrder}}. {{stepTitle}}": "Edit step {{selectedStepOrder}}. {{stepTitle}}"
+  },
+  "substitutes": {
+    "Click on the icons below to select/deselect substitutes": "Click on the icons below to select/deselect substitutes",
+    "No substitutes selected/available": "No substitutes selected/available",
+    "Suggestions": "Suggestions",
+    "you can select multiple": "you can select multiple",
+    "Type to search for ingredients": "Type to search for ingredients",
+    "Are you sure you want to remove all the substitutes for {{ingredientName}} ?": "Are you sure you want to remove all the substitutes for {{ingredientName}} ?",
+    "this ingredient": "this ingredient"
+  },
+  "templates": {
+    "Use as template": "Use as template"
+  },
+  "wizard": {
+    "Choose ingredients": "Choose ingredients",
+    "Define steps": "Define steps",
+    "Adjust volumes": "Adjust volumes",
+    "Choose substitutes": "Choose substitutes",
+    "Adjust substitutes": "Adjust substitutes",
+    "Finish up": "Finish up",
+    "You have the following errors": "You have the following errors",
+    "Please go back to fix these.": "Please go back to fix these."
+  },
   "ingredientNames": {
     "acorn squash": "acorn squash",
     "agave nectar": "agave nectar",
